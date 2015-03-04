@@ -1,3 +1,3 @@
 # hello-world
-Hello world for Github
+Hello world for Github.
 I am a computer science student. 
